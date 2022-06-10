@@ -1,4 +1,4 @@
-Will contain the essed fluoroscopy image.
+Will contain the processed fluoroscopy image.
 
 The file extension can be defined in RegisterImage.py under OutputExtension and should be supported by ITK.
 
