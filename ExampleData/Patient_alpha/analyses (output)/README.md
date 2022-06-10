@@ -12,5 +12,7 @@ The contents will consist of Index,filename,Rotation x,Rotation y,Rotation z,Tra
 
 The scaleable vector graphics files contain a plot of the image similarity produced by MatplotLib.
 
-The filename will consist of '**PatientID 3DModel** - Preoperative - **ImageFilter** DRR n-D landscape - Intraoperative - **ImageFilter** of **FluoroscopyImage**.svg'.
+The filename will consist of:
+
+'**PatientID 3DModel** - Preoperative - **ImageFilter** DRR n-D landscape - Intraoperative - **ImageFilter** of **FluoroscopyImage**.svg'.
 
