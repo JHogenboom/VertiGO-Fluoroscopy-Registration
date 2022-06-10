@@ -1,0 +1,5 @@
+Will contain the essed fluoroscopy image.
+
+The file extension can be defined in RegisterImage.py under OutputExtension and should be supported by ITK.
+
+The filename will consist of '*FluoroscopyImage**_processed.OutPutExtension'.
