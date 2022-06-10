@@ -69,9 +69,6 @@ if type_of_operation == 'preoperative':
     print(f'Total DRR generation time: {t2_1-t1_1}')
 elif type_of_operation == 'intraoperative':
     NewRegistration.feature_extractor_evaluate()
-    # NewRegistration.feature_extractor_plot('G:\\Joost_(Joshi)\\\VertiGO\\Patient_1\\analysis\registration\\HipHop\\OptInfo\\Patient_1_evaluated_parameters_left_ear.csv')
-elif type_of_operation == 'optimise filter':
-    NewRegistration.optimise_filter(domain_info)
 
 t2 = time.perf_counter()
 print(f'Total execution time: {t2-t1} ')
