@@ -3,7 +3,7 @@ import itk
 
 """
     Module the application of numerous image feature filters included in the Insight Toolkit (ITK).
-    Written by Joshi Hogenboom in December 2021 using ITK version 5.2.1post.
+    Written by J. Hogenboom in December 2021 using ITK version 5.2.1post.
     
     Documentation of the ITKImageFeature module can be found at:
     https://itk.org/Doxygen/html/group__ITKImageFeature.html
