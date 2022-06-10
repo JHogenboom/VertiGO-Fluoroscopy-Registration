@@ -1,4 +1,5 @@
 This folder contains the Python scripts and the dependencies to execute the described software.
+
 The software is to be executed and configured from the RegisterImage.py file.
 
 
