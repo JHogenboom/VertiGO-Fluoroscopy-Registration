@@ -1,4 +1,4 @@
-Will contain the generated comma delimited files (.csv) and scaleable vector graphics (.svg).
+Will contain the generated comma delimited files (.csv) and scaleable vector graphics (.svg) of the analyses.
 
 -----------------
 
