@@ -4,6 +4,6 @@ Use of inter-volume pose can be defined with boolean **InitialPose** in **Regist
 
 This folder should be the same as within '.../Scripts/necessities/pose/' and should be titled 'pose'
 
-More information can be found in this particular folder:
+More information can be found in this [particular folder](https://github.com/JHogenboom/VertiGO-Fluoroscopy-Registration/tree/main/Scripts/necessities/pose) and the [Wiki](https://github.com/JHogenboom/VertiGO-Fluoroscopy-Registration/wiki/1.-Preoperative-stage#compute-initial-pose).
 
-https://github.com/JHogenboom/VertiGO-Fluoroscopy-Registration/tree/main/Scripts/necessities/pose
+
